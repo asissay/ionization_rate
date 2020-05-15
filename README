@@ -1,3 +1,4 @@
-This is a GNUplot script used for fitting time-dependent charge data
-to calculate the ionization rate. This works for single electron
-ionization.
+These are GNUplot scripts used for fitting the time-dependent charge
+and norm data for the whole density and inidvidual molecular orbitals,
+respectively, in order to calculate ionization rates for the different
+cases. These are all single electron ionization.
