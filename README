@@ -1,0 +1,3 @@
+This is a GNUplot script used for fitting time-dependent charge data
+to calculate the ionization rate. This works for single electron
+ionization.
